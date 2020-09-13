@@ -1,4 +1,4 @@
-# Jason Humphrey - Career Coach & Principle Software Engineer
+# Career Coach & Principle Software Engineer
 
 I help coding bootcamp students land their first high-paying job as a professional software developer.
 
